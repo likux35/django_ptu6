@@ -1,0 +1,9 @@
+/ignoruosim.txt
+.idea/
+gitraktas.txt
+gitraktas.txt.pub
+main.py
+mysite/library/__pycache__/
+mysite/library/migrations/__pycache__/
+mysite/mysite/__pycache__/
+
